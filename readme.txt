@@ -2,6 +2,7 @@
 
 All the logs will be written into the myLogFile.log in the project directory.
 This file is configured using logback.xml under resources folder.
+
 <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
