@@ -48,7 +48,3 @@ log4j.appender.file.File=log4jlogs.log
 Logs will be written into log4jlogs.log
 
 3) Cannot run both 1 & 2 above simultaneous. Will have to comment out the maven dependencies and clean
-
-
-
- 
