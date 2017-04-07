@@ -43,7 +43,6 @@ Dependencies :
 Configuration for log4j are in log4j.properties in the resources folder.
 
 log4j.appender.file.File=log4jlogs.log
-# use the below to write to a specific location.
 #log4j.appender.file.File=/Users/manojkrishnamurthy/log4jlogs.log
 
 Logs will be written into log4jlogs.log
